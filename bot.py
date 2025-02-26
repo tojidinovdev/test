@@ -64,7 +64,7 @@ async def handle_message(update: Update, context: CallbackContext):
 # Asosiy bot funksiyasi
 def main():
     # Tokeningizni bu yerga kiriting
-    TOKEN = "TOKENNI_BU_YERGA_KIRITING"
+    TOKEN = "7812518077:AAHany4ZlppXc_94aBPblQXVpZc3Y8R0RQg"
     app = ApplicationBuilder().token(TOKEN).build()
 
     # Komandalar va xabarlarni boshqarish
